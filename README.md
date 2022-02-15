@@ -20,7 +20,8 @@ You need to have node.js enabled in your terminal shell, and it relies on the in
 
 ## Usage
 
-It could be used for virtually any repository that needs a readme
+It could be used for virtually any repository that needs a readme. The following video shows how it works:
+[Video](https://github.com/errotleugim/readme-generator/raw/main/utils/usagevid.mp4)
 
 ## Contributing
 Currently not taking contributions.
