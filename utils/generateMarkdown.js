@@ -1,4 +1,4 @@
-// function to generate markdown for README
+
 const fs = require('fs'); 
 
 function licenseBadge(data) {
@@ -95,7 +95,7 @@ ${data.tests}
 ${licenseLink(data)}
 
 ## GitHub
-${data.github}
+https://github.com/${data.github}
 
 ## E-mail
 ${data.email}`

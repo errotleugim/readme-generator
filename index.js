@@ -30,7 +30,7 @@ function init () {
       {
           type: "checkbox",
           message: "Project License:",
-          choices: ["MIT", "Boost Software License 1.0", "GNU General Public License 2.0", "Apache License 2.0", "GNU General Public License 3.0", "GNU Affero General Public License v3.0", "Mozilla Public License 2.0", "The Unlicense"],
+          choices: ["MIT", "Boost Software License 1.0", "GNU General Public License 3.0", "Apache License 2.0", "GNU Lesser General Public License 3.0", "GNU Affero General Public License v3.0", "Mozilla Public License 2.0", "The Unlicense"],
           name: "license",
       },
       {
